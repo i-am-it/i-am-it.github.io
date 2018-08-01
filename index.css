@@ -3,7 +3,7 @@
 }
 
 @media screen and (max-width: 600px){
-	.class="heading"{
+	.heading{
 		font-size: 1.5rem;
 	}
 	li{
